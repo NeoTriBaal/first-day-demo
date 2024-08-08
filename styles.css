@@ -1,0 +1,49 @@
+/* Body Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+/* Heading Styles */
+h1, h2, h3 {
+    text-align: center;
+}
+
+h1 {
+    background-color: #8e0098;
+    color: #eeff00;
+}
+
+h2 {
+    background-color: #2809f3;
+    color: #ff9100;
+}
+
+h3 {
+    background-color: #ffffff; /* White background for h3 */
+    color: #000000; /* Black text color for h3 */
+}
+
+/* Paragraph Styles */
+p {
+    background-color: lightblue;
+    color: #000000; /* Black text color for paragraphs */
+    text-align: left;
+    line-height: 1.6;
+}
+
+/* Link Styles */
+a {
+    color: #ff9100;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #800080; /* Purple color for visited links */
+}
