@@ -16,17 +16,17 @@ h1, h2, h3 {
 
 h1 {
     background-color: lemonchiffon
-    color: #eeff00;
+    color: darkblue
 }
 
 h2 {
-    background-color: #2809f3;
-    color: #ff9100;
+    background-color: lemonchiffon
+    color: darkblue
 }
 
 h3 {
-    background-color: #000000; /* Black background for h3 */
-    color: #ffffff; /* White text color for h3 */
+    background-color: lemonchiffon
+    color: darkblue
 }
 
 /* Paragraph Styles */
